@@ -1,0 +1,55 @@
+# GIVĒON – TWENTIES
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+How was I supposed to know
+This is how it's gonna go?
+Thought that
+if I put you first enough
+We would last for sure,
+last for sure (For sure)
+Remember our first kiss,
+was in a rental car
+Now I kinda wish it was a hit
+and run
+Crazy I let you get this far
+But I was just young and dumb
+Six years gone down the drain
+I guess I'm half to blame
+I didn't know,
+I didn't know
+I'd be wasting my time
+Spending my twenties on you (Oh)
+I poured my heart in it
+Don't get me started
+Spend my time wondering why
+I spent my twenties on you
+Thought I was learning myself
+I was just learning you
+Is anything black and white
+When you're barely twenty-two?
+Hold onto you
+like a shirt to a sweater
+Hung onto you
+'cause I didn't know better
+I just felt like time was
+runnin' out
+I could tell
+the ship was goin' down
+I was so young and dumb
+Six years gone down the drain
+I guess I'm half to blame
+I didn't know,
+I didn't know
+I'd be wasting my time
+Spending my twenties on you (Oh)
+I poured my heart in it
+Don't get me started
+Spend my time wondering why
+I spent my twenties on you, oh
+I poured my heart in it
+Don't get me started
+Spend my time wondering why
+I spent my twenties on you
+```
