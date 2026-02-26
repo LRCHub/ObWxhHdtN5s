@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "TWENTIES",
+  "base_artist": "GIVĒON",
+  "createdAt": "2026-02-26T05:38:37.849893Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long Dark Twenties",
+      "artist": "Nadja",
+      "has_synced": true,
+      "path": "select/01_Long_Dark_Twenties_Nadja.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anywhere You Looked - Your Twenties Remix",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/02_Anywhere_You_Looked_-_Your_Twenties_Remix_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Twenties",
+      "artist": "Ghost",
+      "has_synced": true,
+      "path": "select/03_Twenties_Ghost.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Long Dark Twenties (7\" Version)",
+      "artist": "Nadja",
+      "has_synced": true,
+      "path": "select/04_Long_Dark_Twenties_(7__Version)_Nadja.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Twenties",
+      "artist": "Bren Joy",
+      "has_synced": true,
+      "path": "select/05_Twenties_Bren_Joy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Twenties",
+      "artist": "Rosie Frater Taylor",
+      "has_synced": true,
+      "path": "select/06_Twenties_Rosie_Frater_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Your Twenties",
+      "artist": "Spose",
+      "has_synced": false,
+      "path": "select/07_Your_Twenties_Spose.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love & War in Your Twenties",
+      "artist": "Jordy Searcy",
+      "has_synced": true,
+      "path": "select/08_Love_&_War_in_Your_Twenties_Jordy_Searcy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Let's Face It I'm Cute (Roaring Twenties Mix)",
+      "artist": "11 Acorn Lane",
+      "has_synced": false,
+      "path": "select/09_Let's_Face_It_I'm_Cute_(Roaring_Twenties_Mix)_11_Acorn_Lane.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Twenties",
+      "artist": "KAYDEN",
+      "has_synced": false,
+      "path": "select/10_Twenties_KAYDEN.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Early Twenties",
+      "artist": "Tia Gostelow",
+      "has_synced": true,
+      "path": "select/11_Early_Twenties_Tia_Gostelow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Twenties (club mix)",
+      "artist": "Wolfgang Lohr",
+      "has_synced": false,
+      "path": "select/12_Twenties_(club_mix)_Wolfgang_Lohr.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Twenties (radio edit)",
+      "artist": "Wolfgang Lohr & Loredana Grimaudo",
+      "has_synced": true,
+      "path": "select/13_Twenties_(radio_edit)_Wolfgang_Lohr_&_Loredana_Grimaudo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Twenty Twenties",
+      "artist": "Fran Vasilić",
+      "has_synced": false,
+      "path": "select/14_Twenty_Twenties_Fran_Vasilić.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Twenties",
+      "artist": "Ghost",
+      "has_synced": true,
+      "path": "select/15_Twenties_Ghost.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Twenties",
+      "artist": "Ghost",
+      "has_synced": true,
+      "path": "select/16_Twenties_Ghost.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Long Dark Twenties (slightly extended 7\" version)",
+      "artist": "Nadja",
+      "has_synced": true,
+      "path": "select/17_Long_Dark_Twenties_(slightly_extended_7__version)_Nadja.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TWENTIES",
+      "artist": "GIVĒON",
+      "has_synced": false,
+      "path": "select/pl_01_TWENTIES_GIVĒON.txt"
+    }
+  ]
+}
